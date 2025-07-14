@@ -1,0 +1,24 @@
+.flex{
+    display: flex;
+}
+
+.justify-center{
+    justify-content: center;
+}
+
+item-center{
+    align-items: center;
+}
+
+.border{
+    border: 2px solid black ;
+    margin: 3px ;
+}
+.rounded{
+    border-radius: 7px;
+    
+}
+
+.m-1{
+    margin: 5px;
+}
